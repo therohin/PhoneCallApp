@@ -86,9 +86,6 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Chapters\Mobile_DevOps_Chapter_4.docx" />
-    <None Include="Chapters\Mobile_DevOps_Chapter_6.docx" />
-    <None Include="Chapters\Mobile_DevOps_Chapter_7.docx" />
     <None Include="GettingStarted.Xamarin" />
     <None Include="Resources\AboutResources.txt" />
     <None Include="Properties\AndroidManifest.xml" />
