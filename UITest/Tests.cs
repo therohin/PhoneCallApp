@@ -10,7 +10,7 @@ namespace UITest
 {
     [TestFixture]
     public class Tests
-    {
+    { 
         AndroidApp app;
 
         [SetUp]
